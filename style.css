@@ -79,5 +79,4 @@ button {
 button:hover {
     background-color: rgb(113, 140, 139);
     color: white;
-    /* transition-delay: 0.4s; */
 }
